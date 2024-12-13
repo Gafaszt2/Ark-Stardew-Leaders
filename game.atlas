@@ -333,14 +333,14 @@ LeaderIcons/Northen
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Pilamayquen
+LeaderIcons/Panchita
   rotate: false
   xy: 1588, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Qaisar
+LeaderIcons/Pilamayquen
   rotate: false
   xy: 1588, 4
   size: 256, 256
@@ -362,105 +362,112 @@ LeaderIcons/Gladiatrix
   index: -1
 LeaderIcons/John
   rotate: false
-  xy: 1060, 532
+  xy: 1324, 796
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-LeaderIcons/Quetzal
+LeaderIcons/Qaisar
   rotate: false
   xy: 4, 604
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Raia
+LeaderIcons/Quetzal
   rotate: false
   xy: 4, 340
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Rin
+LeaderIcons/Raia
   rotate: false
   xy: 268, 604
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Santiago
+LeaderIcons/Rin
   rotate: false
   xy: 4, 76
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Sarah
+LeaderIcons/Santiago
   rotate: false
   xy: 268, 340
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Siezna
+LeaderIcons/Sarah
   rotate: false
   xy: 532, 604
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Sir Edmund Rockwell
+LeaderIcons/Siezna
   rotate: false
   xy: 268, 76
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Smith
+LeaderIcons/Sir Edmund Rockwell
   rotate: false
   xy: 532, 340
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Sol
+LeaderIcons/Smith
   rotate: false
   xy: 796, 604
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Sophia
+LeaderIcons/Sol
   rotate: false
   xy: 532, 76
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Spipaku Mama
+LeaderIcons/Sophia
   rotate: false
   xy: 796, 340
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/The Prophet
-  rotate: false
-  xy: 1324, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-LeaderIcons/Theodora
+LeaderIcons/Spipaku Mama
   rotate: false
   xy: 1060, 604
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Weasel
+LeaderIcons/The Prophet
+  rotate: false
+  xy: 1060, 268
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+LeaderIcons/Theodora
   rotate: false
   xy: 796, 76
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Weasel
+  rotate: false
+  xy: 1060, 340
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
