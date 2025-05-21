@@ -355,21 +355,21 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 LeaderIcons/Amelia
   rotate: false
-  xy: 1324, 1588
+  xy: 1588, 1852
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 LeaderIcons/Gladiatrix
   rotate: false
-  xy: 1588, 1852
+  xy: 4, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 LeaderIcons/John
   rotate: false
-  xy: 4, 4
+  xy: 268, 268
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -465,6 +465,13 @@ LeaderIcons/Rin
   orig: 256, 256
   offset: 0, 0
   index: -1
+LeaderIcons/Sabrina
+  rotate: false
+  xy: 532, 532
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 LeaderIcons/Santiago
   rotate: false
   xy: 796, 1396
@@ -530,7 +537,7 @@ LeaderIcons/Spipaku Mama
   index: -1
 LeaderIcons/The Prophet
   rotate: false
-  xy: 268, 268
+  xy: 796, 796
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -559,6 +566,13 @@ LeaderIcons/Weasel
 LeaderIcons/Whizan
   rotate: false
   xy: 1060, 1132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/고복수
+  rotate: false
+  xy: 1324, 1396
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
